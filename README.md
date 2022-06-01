@@ -1,1 +1,3 @@
-# crypto-price-prediction
+# Crypto Market Analysis 
+
+This project focuses on working with historical data of top five cryptocurrencies per market cap (Bitcoin, Ethereum, Tether, USD Coin, and Binance Coin) and deliver daily predictions using a Machine Learning model established in scikit-learn. Crypto, even though being a highly speculative market, it's decentralization on blockchain makes it an attractive source of investment. Hence, my motive behind this project was to explore if I could combine the principles of Data Science and not only observe the trends in the historical sales data of this entity, but also to explore further and generate predictions. The historical dataset was extracted from Yahoo Finance which can be found [**here**](https://finance.yahoo.com/cryptocurrencies/).
